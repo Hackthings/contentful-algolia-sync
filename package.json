@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "algoliasearch": "^3.18.1",
+    "contentful": "^3.7.0",
+    "lodash": "^4.16.4",
+    "marked": "^0.3.6",
+    "marked-text-renderer": "^0.1.0",
+    "parameterize": "0.0.7",
+    "remark": "^6.0.1",
+    "remove-markdown": "^0.1.0",
+    "strip-markdown": "^2.0.1",
+    "striptags": "^2.1.1"
+  }
+}
